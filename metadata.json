@@ -1,0 +1,7 @@
+{
+  "name": "NDV V2",
+  "description": "NDV V2",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
